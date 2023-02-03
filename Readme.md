@@ -1,5 +1,6 @@
 Organizing AI | ML Stuff in here
 			 😁
+			 
 Setting up Linux for AI | ML | DL 👇
 
 ### A guide on how to setup ML environment on Linux
@@ -21,18 +22,22 @@ conda activate ml
 ```
 
 ## 4. Install packages 
-
-```bash
-conda install numpy
-conda install pandas
-conda install matplotlib
-conda install seaborn
-conda install scikit-learn
-conda install jupyter
-conda install scikit-learn-intelex # Intel optimized scikit-learn, only for Intel CPUs     
-```
-
-Or you can install all the packages from requirements.txt
+    ```bash
+    conda install --file requirements.txt
+    ```
+    
+    OR
+    
+    
+    ```bash
+    conda install numpy
+    conda install pandas
+    conda install matplotlib
+    conda install seaborn
+    conda install scikit-learn
+    conda install jupyter
+    conda install scikit-learn-intelex # Intel optimized scikit-learn, only for Intel CPUs     
+    ```
 
 ## 5. Conda install from requirements.txt
 
