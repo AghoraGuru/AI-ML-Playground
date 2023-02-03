@@ -30,8 +30,7 @@ conda activate ml
     conda install jupyter
     conda install scikit-learn-intelex # Intel optimized scikit-learn, only for Intel CPUs     
     ```
-    
-    		OR
+OR
 
 ## 5. Conda install from requirements.txt
 
