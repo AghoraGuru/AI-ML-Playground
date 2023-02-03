@@ -1,5 +1,6 @@
 Organizing AI | ML Stuff in here
 			 😁
+			 
 Setting up Linux for AI | ML | DL 👇
 
 ### A guide on how to setup ML environment on Linux
