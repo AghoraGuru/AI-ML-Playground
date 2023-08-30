@@ -1,0 +1,9 @@
+train: /home/venom/repo/yolo_dish/FinalDataset/images/train/
+val:  /home/venom/repo/yolo_dish/FinalDataset/images/val/
+test: /home/venom/repo/yolo_dish/FinalDataset/images/test/
+
+# number of classes
+nc: 20
+
+# class names
+names: ['Chopsticks-cover', 'Chopsticks-one', 'Chopsticks-two', 'Coffee', 'Coffee-cup', 'Coffee-dish', 'Cup', 'Fish-dish', 'Paper', 'Rice-bowl', 'Soup-bowl', 'Spoon', 'Square-bowl', 'Tea-cup', 'Tea-dish', 'Towel', 'Towel-dish', 'Waster-paper', 'Water-cup', 'Wine-cup']
