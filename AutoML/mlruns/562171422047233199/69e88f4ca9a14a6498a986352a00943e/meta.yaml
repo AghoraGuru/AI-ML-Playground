@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/69e88f4ca9a14a6498a986352a00943e/artifacts
+end_time: 1689318365123
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: 69e88f4ca9a14a6498a986352a00943e
+run_name: Passive Aggressive Regressor
+run_uuid: 69e88f4ca9a14a6498a986352a00943e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689318365077
+status: 3
+tags: []
+user_id: kalyan

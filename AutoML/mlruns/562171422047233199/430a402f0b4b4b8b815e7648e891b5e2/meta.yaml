@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/430a402f0b4b4b8b815e7648e891b5e2/artifacts
+end_time: 1689318365955
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: 430a402f0b4b4b8b815e7648e891b5e2
+run_name: Lasso Least Angle Regression
+run_uuid: 430a402f0b4b4b8b815e7648e891b5e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689318365912
+status: 3
+tags: []
+user_id: kalyan

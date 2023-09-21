@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/3146cecdcecf42e78fd0b31832ff917f/artifacts
+end_time: 1689318367535
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: 3146cecdcecf42e78fd0b31832ff917f
+run_name: Orthogonal Matching Pursuit
+run_uuid: 3146cecdcecf42e78fd0b31832ff917f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689318367463
+status: 3
+tags: []
+user_id: kalyan

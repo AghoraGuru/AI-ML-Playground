@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/26a31c99cda94830a830888d7204fe26/artifacts
+end_time: 1689283425745
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: 26a31c99cda94830a830888d7204fe26
+run_name: Light Gradient Boosting Machine
+run_uuid: 26a31c99cda94830a830888d7204fe26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689283425624
+status: 3
+tags: []
+user_id: kalyan

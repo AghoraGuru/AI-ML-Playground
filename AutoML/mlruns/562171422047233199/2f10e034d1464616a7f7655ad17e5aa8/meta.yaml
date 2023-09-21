@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/2f10e034d1464616a7f7655ad17e5aa8/artifacts
+end_time: 1689318366627
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: 2f10e034d1464616a7f7655ad17e5aa8
+run_name: Gradient Boosting Regressor
+run_uuid: 2f10e034d1464616a7f7655ad17e5aa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689318366580
+status: 3
+tags: []
+user_id: kalyan

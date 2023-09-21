@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/30715574988a4643b2a01b042770e672/artifacts
+end_time: 1695271681185
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: 30715574988a4643b2a01b042770e672
+run_name: Session Initialized 28b3
+run_uuid: 30715574988a4643b2a01b042770e672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695271645172
+status: 3
+tags: []
+user_id: omen

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/32acd88b0b8c4ef6b1940be148eabd9b/artifacts
+end_time: 1689283427155
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: 32acd88b0b8c4ef6b1940be148eabd9b
+run_name: Naive Bayes
+run_uuid: 32acd88b0b8c4ef6b1940be148eabd9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689283427032
+status: 3
+tags: []
+user_id: kalyan

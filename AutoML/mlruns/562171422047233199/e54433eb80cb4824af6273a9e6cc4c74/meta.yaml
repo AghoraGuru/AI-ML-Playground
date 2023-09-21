@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/e54433eb80cb4824af6273a9e6cc4c74/artifacts
+end_time: 1689283426933
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: e54433eb80cb4824af6273a9e6cc4c74
+run_name: Linear Discriminant Analysis
+run_uuid: e54433eb80cb4824af6273a9e6cc4c74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689283426813
+status: 3
+tags: []
+user_id: kalyan

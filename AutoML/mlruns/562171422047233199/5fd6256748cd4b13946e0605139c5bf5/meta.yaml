@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/5fd6256748cd4b13946e0605139c5bf5/artifacts
+end_time: 1689318366123
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: 5fd6256748cd4b13946e0605139c5bf5
+run_name: Linear Regression
+run_uuid: 5fd6256748cd4b13946e0605139c5bf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689318366079
+status: 3
+tags: []
+user_id: kalyan

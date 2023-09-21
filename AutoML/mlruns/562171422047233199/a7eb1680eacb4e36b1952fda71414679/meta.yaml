@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/a7eb1680eacb4e36b1952fda71414679/artifacts
+end_time: 1689318366456
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: a7eb1680eacb4e36b1952fda71414679
+run_name: Extra Trees Regressor
+run_uuid: a7eb1680eacb4e36b1952fda71414679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689318366411
+status: 3
+tags: []
+user_id: kalyan

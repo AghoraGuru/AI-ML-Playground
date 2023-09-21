@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/105082823067477e87c65935aaa4e3cd/artifacts
+end_time: 1689318366288
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: 105082823067477e87c65935aaa4e3cd
+run_name: Least Angle Regression
+run_uuid: 105082823067477e87c65935aaa4e3cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689318366246
+status: 3
+tags: []
+user_id: kalyan

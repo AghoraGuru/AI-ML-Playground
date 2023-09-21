@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/20d4bc7aae8a46c0b381013ab36e138c/artifacts
+end_time: 1689283506205
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: 20d4bc7aae8a46c0b381013ab36e138c
+run_name: Session Initialized f62e
+run_uuid: 20d4bc7aae8a46c0b381013ab36e138c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689283390054
+status: 3
+tags: []
+user_id: kalyan

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/8c79fa2b12404d90a5322e58450c81a6/artifacts
+end_time: 1689318365289
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: 8c79fa2b12404d90a5322e58450c81a6
+run_name: Ridge Regression
+run_uuid: 8c79fa2b12404d90a5322e58450c81a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689318365247
+status: 3
+tags: []
+user_id: kalyan

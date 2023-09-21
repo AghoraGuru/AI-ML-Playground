@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/92f68aeb523b4804b0fcd3c22542e867/artifacts
+end_time: 1689318366964
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: 92f68aeb523b4804b0fcd3c22542e867
+run_name: AdaBoost Regressor
+run_uuid: 92f68aeb523b4804b0fcd3c22542e867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689318366921
+status: 3
+tags: []
+user_id: kalyan

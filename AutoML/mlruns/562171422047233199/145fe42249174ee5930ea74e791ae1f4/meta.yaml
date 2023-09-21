@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/145fe42249174ee5930ea74e791ae1f4/artifacts
+end_time: 1689283426708
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: 145fe42249174ee5930ea74e791ae1f4
+run_name: Ridge Classifier
+run_uuid: 145fe42249174ee5930ea74e791ae1f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689283426582
+status: 3
+tags: []
+user_id: kalyan

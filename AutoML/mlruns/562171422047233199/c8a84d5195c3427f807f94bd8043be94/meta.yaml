@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/c8a84d5195c3427f807f94bd8043be94/artifacts
+end_time: 1689283428574
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: c8a84d5195c3427f807f94bd8043be94
+run_name: Dummy Classifier
+run_uuid: c8a84d5195c3427f807f94bd8043be94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689283428437
+status: 3
+tags: []
+user_id: kalyan

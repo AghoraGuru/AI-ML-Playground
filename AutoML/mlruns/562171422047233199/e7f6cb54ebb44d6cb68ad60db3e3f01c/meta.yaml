@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/e7f6cb54ebb44d6cb68ad60db3e3f01c/artifacts
+end_time: 1689318365455
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: e7f6cb54ebb44d6cb68ad60db3e3f01c
+run_name: Huber Regressor
+run_uuid: e7f6cb54ebb44d6cb68ad60db3e3f01c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689318365412
+status: 3
+tags: []
+user_id: kalyan

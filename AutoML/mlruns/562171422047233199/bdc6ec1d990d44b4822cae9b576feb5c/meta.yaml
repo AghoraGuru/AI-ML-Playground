@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/bdc6ec1d990d44b4822cae9b576feb5c/artifacts
+end_time: 1689283426455
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: bdc6ec1d990d44b4822cae9b576feb5c
+run_name: Extra Trees Classifier
+run_uuid: bdc6ec1d990d44b4822cae9b576feb5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689283426319
+status: 3
+tags: []
+user_id: kalyan

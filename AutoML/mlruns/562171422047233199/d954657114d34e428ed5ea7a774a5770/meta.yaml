@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/d954657114d34e428ed5ea7a774a5770/artifacts
+end_time: 1689283427610
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: d954657114d34e428ed5ea7a774a5770
+run_name: Quadratic Discriminant Analysis
+run_uuid: d954657114d34e428ed5ea7a774a5770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689283427477
+status: 3
+tags: []
+user_id: kalyan

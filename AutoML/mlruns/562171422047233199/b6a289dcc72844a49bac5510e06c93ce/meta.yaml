@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/b6a289dcc72844a49bac5510e06c93ce/artifacts
+end_time: 1689283428332
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: b6a289dcc72844a49bac5510e06c93ce
+run_name: K Neighbors Classifier
+run_uuid: b6a289dcc72844a49bac5510e06c93ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689283428202
+status: 3
+tags: []
+user_id: kalyan

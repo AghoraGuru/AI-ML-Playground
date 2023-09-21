@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/3722f07a22664b1a9016d2e1169d8129/artifacts
+end_time: 1689318365625
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: 3722f07a22664b1a9016d2e1169d8129
+run_name: Bayesian Ridge
+run_uuid: 3722f07a22664b1a9016d2e1169d8129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689318365579
+status: 3
+tags: []
+user_id: kalyan

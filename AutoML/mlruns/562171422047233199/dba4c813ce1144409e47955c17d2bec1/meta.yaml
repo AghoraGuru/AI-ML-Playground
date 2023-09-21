@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/dba4c813ce1144409e47955c17d2bec1/artifacts
+end_time: 1689283427374
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: dba4c813ce1144409e47955c17d2bec1
+run_name: Logistic Regression
+run_uuid: dba4c813ce1144409e47955c17d2bec1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689283427255
+status: 3
+tags: []
+user_id: kalyan

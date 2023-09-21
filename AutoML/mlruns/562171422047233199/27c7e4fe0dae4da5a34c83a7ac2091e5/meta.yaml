@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/27c7e4fe0dae4da5a34c83a7ac2091e5/artifacts
+end_time: 1689283428097
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: 27c7e4fe0dae4da5a34c83a7ac2091e5
+run_name: Decision Tree Classifier
+run_uuid: 27c7e4fe0dae4da5a34c83a7ac2091e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689283427959
+status: 3
+tags: []
+user_id: kalyan

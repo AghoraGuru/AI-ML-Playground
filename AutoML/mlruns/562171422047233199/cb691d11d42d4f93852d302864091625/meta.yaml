@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kalyan/tmp/hackathon/mlruns/562171422047233199/cb691d11d42d4f93852d302864091625/artifacts
+end_time: 1689283426195
+entry_point_name: ''
+experiment_id: '562171422047233199'
+lifecycle_stage: active
+run_id: cb691d11d42d4f93852d302864091625
+run_name: Random Forest Classifier
+run_uuid: cb691d11d42d4f93852d302864091625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689283426070
+status: 3
+tags: []
+user_id: kalyan
